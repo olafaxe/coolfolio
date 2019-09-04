@@ -1,0 +1,22 @@
+{
+  "name": "coolfolio",
+  "version": "1.0.0",
+  "description": "Attachment is pain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olafaxe/coolfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olafaxe/coolfolio/issues"
+  },
+  "homepage": "https://github.com/olafaxe/coolfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
